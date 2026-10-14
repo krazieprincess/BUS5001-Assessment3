@@ -1,0 +1,11 @@
+#,urgencies seen,category stable,urgency stable,team stable
+1,"MEDIUM, MEDIUM, MEDIUM",True,True,True
+2,"MEDIUM, MEDIUM, MEDIUM",True,True,True
+3,"MEDIUM, MEDIUM, LOW",True,False,True
+4,"MEDIUM, MEDIUM, MEDIUM",True,True,True
+5,"MEDIUM, MEDIUM, MEDIUM",True,True,True
+6,"MEDIUM, MEDIUM, MEDIUM",False,True,True
+7,"HIGH, HIGH, HIGH",True,True,True
+8,"NEUTRAL, LOW, LOW",True,False,True
+9,"HIGH, HIGH, HIGH",True,True,True
+10,"MEDIUM, MEDIUM, MEDIUM",True,True,True

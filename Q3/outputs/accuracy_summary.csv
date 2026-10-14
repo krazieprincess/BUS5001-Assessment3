@@ -1,0 +1,5 @@
+,category correct,urgency correct,team correct
+LLM – original prompt,n/a (free text),6/10,n/a (free text)
+LLM – revised prompt,7/10,6/10,10/10
+Rule-based baseline,9/10,10/10,9/10
+Zero-shot baseline,7/10,4/10,7/10
